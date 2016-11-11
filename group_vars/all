@@ -8,4 +8,4 @@ db_subnets:
   - subnet-cdcbd0e7
 db_availability_zone: us-east-1b
 db_username: courseapp
-db2_password: password
+db_password: password
